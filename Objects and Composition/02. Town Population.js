@@ -17,6 +17,7 @@ function towns(list) {
     }
 
     //print result
+    
     for (let [name, population] of Object.entries(result)) {
         console.log(`${name} : ${population}`);
     }
