@@ -21,4 +21,3 @@ function sampleTown(arr) {
         console.log(`${productName}->${obj[productName].price}(${obj[productName].town})`);
     }
 }
-// 1/100
